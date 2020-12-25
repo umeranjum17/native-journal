@@ -1,0 +1,12 @@
+{
+  "name": "native-journal",
+  "displayName": "native-journal",
+  "expo": {
+    "name": "native-journal",
+    "slug": "native-journal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
